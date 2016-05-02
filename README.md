@@ -1,3 +1,3 @@
 # 663-Final-Projects
 Aaron Jones, Jianghao Li
-Paper Chosen: Scalable Kmeans ++
+Paper Chosen: Spectral Clustering and Parallel Kmeans++
